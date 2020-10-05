@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="password_to_short">Password - to short</string>
+    <string name="password_tip">Password</string>
+    <string name="password_sth_wrong">Password - something wrong with password</string>
+    <string name="cant_encode">Password - can\'t encode notes</string>
+    <string name="wrong_password">Password - wrong password</string>
+</resources>
